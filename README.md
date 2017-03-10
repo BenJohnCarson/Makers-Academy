@@ -15,7 +15,7 @@
 * Group Programming Project [AtomicWars] (https://github.com/BenJohnCarson/Atomic-Wars)
 
 ## <a name="Week8">Week 8 - Intro to Rails</a>
-* Paired Programming Project [Yelp] (https://github.com/BenJohnCarson/yello)
+* Group Programming Project [Yello] (https://github.com/BenJohnCarson/yello)
 * Solo Weekend Project [Instagram] (https://github.com/BenJohnCarson/instagram-challenge)
 
 ## <a name="Week7">Week 7 - Further JavaScript</a>
