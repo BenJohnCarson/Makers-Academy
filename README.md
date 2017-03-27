@@ -4,6 +4,7 @@
 [Week 6](#Week6) | [Week 7](#Week7) | [Week 8](#Week8) | [Week 9](#Week9) | [Week 10](#Week10) | [Week 11-12](#Week1112)
 
 ## <a name="Week1112">Week 11-12 - Final Projects</a>
+* Final Group Programming Project [Thunder Warriors](https://github.com/BenJohnCarson/80sTD)
 
 ## <a name="Week10">Week 10 - Individual challenges (tech test week)</a>
 * Solo Tech Test [Database Tech Test](https://github.com/BenJohnCarson/Database-server-tech-test)
